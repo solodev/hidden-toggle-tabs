@@ -1,0 +1,2 @@
+# hidden-toggle-tabs
+Your homepage needs to display your core offerings in a way that website visitors see it immediately. Whether you are a product or service company, your core products and/or services need to have the most prominence on your homepage. While your hero is reserved for your big picture marketing messages, directly below you need to visually display your offerings in a graphical and interactive way. Using toggled tabs to display these offerings allows you to save real estate on your web page as details for a particular product or service only appear on click.
